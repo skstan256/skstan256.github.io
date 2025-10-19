@@ -1,7 +1,7 @@
 # Sarah Stanley
 **Software Developer**  
 Provo, US  
-[stanley.sarah.k@gmail.com](mailto:stanley.sarah.k@gmail.com) • (801) 318-1749  
+[stanley.sarah.k@gmail.com](mailto:stanley.sarah.k@gmail.com) • (801) 318-1749 • [LinkedIn](https://www.linkedin.com/in/sarah-stanley-617a80297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
@@ -60,3 +60,9 @@ Expected Graduation: **Apr 2026**
 *Nov 2022 – Aug 2023*  
 - Assisted patrons with **8 types of digitization equipment**, enabling them to preserve cherished family memories.  
 - Engaged with visitors by listening to and appreciating family stories, enhancing the overall experience in the center.
+
+---
+
+## **Personal Projects**
+### [Topical Guide Sort](https://github.com/skstan256/topicalGuideSort)
+Functionality to sort all the scriptural references mentioned in Jesus Christ's entries in the Topical Guide (by the order they appear in the scriptures).
